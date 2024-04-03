@@ -1,0 +1,19 @@
+{
+  "name": "westeros-heirs",
+  "version": "1.0.0",
+  "description": "Here's an API with all known characters of Westeros separated by their respective families. The main goal for this project is to train my Nest js skills.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
